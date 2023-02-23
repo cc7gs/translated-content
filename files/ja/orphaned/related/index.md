@@ -1,8 +1,7 @@
 ---
 title: ウェブ関連技術
-slug: Related
-l10n:
-  sourceCommit: 4c6b993ad0d43bc679688a3488e13a4ec0b2c3ec
+slug: orphaned/Related
+original_slug: Related
 ---
 
 この節は、MDN の中心的な任務ではない（つまり、ウェブ標準技術ではない）けれども、それでもウェブに関連し、ウェブ開発者にとって興味深い技術に関する文書化のためのホームです。
